@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter Title Here</title>
+    <meta name="description" content="Description goes here">
+    <link href="" rel="icon" type="image/png">
+
+    <!-- Social Tags -->
+    <meta property="og:title" content="10 Habits Of A Happy Relationship">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="https://www.relrules.com/wp-content/uploads/2014/12/b5.jpg">
+    <meta property="og:description" content="Every happy relationship needs two strong companions who are willing to go the extra mile and never give up. Here are the ten habits of a happy relationship.">
+
+
+    <script>
+        var newURL= "https://baerelationship.com/10-habits-of-a-happy-relationship/";
+        location.replace(newURL);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
